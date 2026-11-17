@@ -1,0 +1,6 @@
+Sample_ID,Field_Name,Farmer_Name,Available_N_kg_ha,Available_P_kg_ha,Available_K_kg_ha,Soil_pH,Organic_Carbon_pct,Electrical_Conductivity_dSm,Sulphur_ppm,Zinc_ppm,Iron_ppm,Moisture_pct,Temperature_C,Rainfall_mm
+SHC-101,North Valley Farm,Ramesh Patel,75,45,38,6.5,0.68,0.52,14.2,0.92,10.5,24,26,110
+SHC-102,South Riverbank Plot,Ramesh Patel,32,22,18,5.8,0.42,0.4,8.5,0.55,6.2,18,28,85
+SHC-103,East Highland Parcel,Ramesh Patel,115,42,22,7.2,0.85,0.65,18,1.2,12,20,24,90
+SHC-104,West Clay Bottom,Ramesh Patel,82,52,45,6.4,0.72,0.58,15.5,0.98,11.2,28,25,135
+SHC-105,Canal Silt Block,Ramesh Patel,20,65,78,7.3,0.58,0.48,11,0.8,8.4,19,22,75
